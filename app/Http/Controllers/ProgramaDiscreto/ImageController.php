@@ -17,7 +17,7 @@ class ImageController extends Controller
     public function show($resolution, $file) {
         $res = explode('x',$resolution);
 //        dd(storage_path('app/img/').$file);
-        $img = \Image::make(storage_path('app/img/').$file)
+        $img = \Image::make(storage_path('img/').$file)
             ->fit($res[0], $res[1]);
 //            ->resize(700, 300);
 
