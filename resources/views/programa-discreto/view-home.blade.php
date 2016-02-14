@@ -34,7 +34,7 @@
     <div class="row">
         <div class="col-md-7">
             <a href="#">
-                <img class="img-responsive" src="/image/700x300/agatha2.jpg" alt="">
+                <img class="img-responsive" src="/image/700x300/aghata2.jpg" alt="">
             </a>
         </div>
         <div class="col-md-5">
