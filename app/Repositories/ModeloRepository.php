@@ -26,7 +26,7 @@ class ModeloRepository
                 return [
                     'nome' => 'Luana',
                     'cidade' => 'Itaperuna',
-                    'telefone' => '(38) 99952-3437',
+                    'telefone' => '(22) 998 539 642',
                     'idade' => '20 anos',
                     'descricao' => 'Linda, sexy, carinhosa,envolvente, extremamente educada e sedutora de altíssimo nivel, para homens de extremo bom gosto. Quero lhes proporcionar momentos únicos e agradáveis.',
                     'gostoDeFazer' => [
@@ -46,7 +46,7 @@ class ModeloRepository
                 return [
                     'nome' => 'Ághata',
                     'cidade' => 'Macaé',
-                    'telefone' => '21-9986-26861',
+                    'telefone' => '(21) 998 626 861',
                     'idade' => '30 anos',
                     'descricao' => 'Ola !!! Me chamo Ághata sou loira tenho 1.65 altura 65 kilos estou aqui para te proporcionar momentos de puro prazer e descontração . Serei uma companhia bastante agradável , sou bem carinhosa e bastante sensual. Sou estilo namoradinha, mas tbm faço estilo safada.. para proporcionar muito prazer.',
                     'gostoDeFazer' => [
