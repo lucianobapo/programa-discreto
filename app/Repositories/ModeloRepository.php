@@ -35,11 +35,15 @@ class ModeloRepository
                         'Homens',
                         'Casais',
                     ],
-                    'foto_capa' => '/image/750x500/luana3.jpg',
-                    'foto1' => '/image/500x300/luana1.jpg',
-                    'foto2' => '/image/500x300/luana2.jpg',
-                    'foto3' => '/image/500x300/luana3.jpg',
-                    'foto4' => '/image/500x300/luana4.jpg',
+                    'foto_capa' => 2,
+                    'foto1' => '/image/750x500/luana1.jpg',
+                    'foto2' => '/image/750x500/luana2.jpg',
+                    'foto3' => '/image/750x500/luana3.jpg',
+                    'foto4' => '/image/750x500/luana4.jpg',
+                    'foto1Thumb' => '/image/500x300/luana1.jpg',
+                    'foto2Thumb' => '/image/500x300/luana2.jpg',
+                    'foto3Thumb' => '/image/500x300/luana3.jpg',
+                    'foto4Thumb' => '/image/500x300/luana4.jpg',
                 ];
                 break;
             case 'aghata':
@@ -58,11 +62,15 @@ class ModeloRepository
                         'Ativa',
                         'Passiva',
                     ],
-                    'foto_capa' => '/image/750x500/aghata2.jpg',
-                    'foto1' => '/image/500x300/aghata1.jpg',
-                    'foto2' => '/image/500x300/aghata2.jpg',
-                    'foto3' => '/image/500x300/aghata3.jpg',
-                    'foto4' => 'http://placehold.it/500x300',
+                    'foto_capa' => 2,
+                    'foto1' => '/image/750x500/aghata1.jpg',
+                    'foto2' => '/image/750x500/aghata2.jpg',
+                    'foto3' => '/image/750x500/aghata3.jpg',
+                    'foto4' => 'http://placehold.it/750x500',
+                    'foto1Thumb' => '/image/500x300/aghata1.jpg',
+                    'foto2Thumb' => '/image/500x300/aghata2.jpg',
+                    'foto3Thumb' => '/image/500x300/aghata3.jpg',
+                    'foto4Thumb' => 'http://placehold.it/500x300',
                 ];
                 break;
             default:
