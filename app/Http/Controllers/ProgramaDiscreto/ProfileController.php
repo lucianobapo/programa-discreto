@@ -21,4 +21,10 @@ class ProfileController extends Controller
                 'data' => (new ModeloRepository)->findModelo($modelo),
             ]);
     }
+    public function home() {
+        return view('programa-discreto.view-home')
+            ->with([
+                'data' => (new ModeloRepository)->allModelos(),
+            ]);
+    }
 }

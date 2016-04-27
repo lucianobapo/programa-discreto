@@ -11,10 +11,11 @@
 |
 */
 
-Route::get('/', ['as'=>'home', 'uses'=> function () {
-//    \Html::component('appMain', 'components.appMain', []);
-    return view('programa-discreto.view-home');
-} ]);
+//Route::get('/', ['as'=>'home', 'uses'=> function () {
+////    \Html::component('appMain', 'components.appMain', []);
+//    return view('programa-discreto.view-home');
+//} ]);
+Route::get('/', ['as'=>'home', 'uses'=> 'ProgramaDiscreto\ProfileController@home']);
 
 Route::get('/city', ['as'=>'city', 'uses'=> function () {
     return view('programa-discreto.view-city');
