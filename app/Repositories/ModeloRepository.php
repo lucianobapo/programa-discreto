@@ -19,8 +19,8 @@ class ModeloRepository
     public function __construct()
     {
         $this->modelos = [
-            'lara'=>[
-                'nome' => 'Lara Ruby',
+            'luiza'=>[
+                'nome' => 'Luiza Capixaba',
                 'cidade' => 'Macaé',
                 'telefone' => '(22) 997 135 408',
                 'idade' => '24 anos',
