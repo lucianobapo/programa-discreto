@@ -103,7 +103,7 @@ class ModeloRepository
             ],
             'aghata'=>[
                 'nome' => 'Ághata',
-                'cidade' => 'Macaé',
+                'cidade' => 'Rio das Ostras',
                 'telefone' => '(21) 998 626 861',
                 'idade' => '30 anos',
                 'descricao' => 'Ola !!! Me chamo Ághata sou loira tenho 1.65 altura 65 kilos estou aqui para te proporcionar momentos de puro prazer e descontração . Serei uma companhia bastante agradável , sou bem carinhosa e bastante sensual. Sou estilo namoradinha, mas tbm faço estilo safada.. para proporcionar muito prazer.',
