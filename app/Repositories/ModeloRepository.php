@@ -19,6 +19,36 @@ class ModeloRepository
     public function __construct()
     {
         $this->modelos = [
+            'deby'=>[
+                'nome' => 'Deborah Lopez',
+                'cidade' => 'Rio das Ostras',
+                'telefone' => '(22) 992 613 696',
+                'idade' => '25 anos',
+                'descricao' => 'Sarada, branca do cabelo Preto 1,58m 57kg. Gata de programa, tenho local próximo praia da tartaruga e aceito cartão... rostinho de boneca e muito  simpática atendo todos os dias... aguardo seu contatos, beijinhos da Debby',
+                'gostoDeFazer' => [
+                    'Sexo Vaginal',
+                    'Sexo Anal',
+                    'Fantasias',
+                    'Homens',
+                    'Casais',
+                    'Acompanhante',
+                    'Sexo oral',
+                    'Masturbação',
+                    'Dominação',
+                    'Ativa',
+                    'Passiva',
+                ],
+                'foto_capa' => 0,
+                'foto_home' => '/image/700x300/deby6.jpg',
+                'foto1' => '/image/750x500/deby5.jpg',
+                'foto2' => '/image/750x500/deby3.jpg',
+                'foto3' => '/image/750x500/deby2.jpg',
+                'foto4' => '/image/750x500/deby1.jpg',
+                'foto1Thumb' => '/image/500x300/deby5.jpg',
+                'foto2Thumb' => '/image/500x300/deby3.jpg',
+                'foto3Thumb' => '/image/500x300/deby2.jpg',
+                'foto4Thumb' => '/image/500x300/deby1.jpg',
+            ],
             'luiza'=>[
                 'nome' => 'Luiza Capixaba',
                 'cidade' => 'Macaé',
