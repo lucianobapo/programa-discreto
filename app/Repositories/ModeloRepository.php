@@ -79,7 +79,7 @@ class ModeloRepository
                 'foto4Thumb' => '/image/500x300/lara4.jpg',
             ],
             'mirela'=>[
-                'nome' => 'Mirela mendes',
+                'nome' => 'Mirela Mendes',
                 'cidade' => 'Juiz de Fora - MG',
                 'telefone' => '(32) 988 034 804',
                 'idade' => '24 anos',
